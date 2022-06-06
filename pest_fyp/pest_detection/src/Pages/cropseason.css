@@ -1,0 +1,38 @@
+table, th, td {
+    border: 1px solid black;
+    font-size: large;
+  }
+  table {
+    width: 100%;
+  }
+  table {
+    border-collapse: collapse;
+  }
+  table {
+    width: 100%;
+  }
+  img{
+   height: auto; 
+  }
+  th {
+    height: 70px;
+  }
+  table {
+    width: 100%;
+  }
+  
+  th {
+    height: 70px;
+  }
+  td {
+    text-align: center;
+  }
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+  th, td {
+    border-bottom: 1px solid rgb(11, 225, 233);
+  }
+  tr:hover {background-color: rgba(0, 238, 255, 0.164);}
+  tr:nth-child(even) {background-color: #f2f2f2;}
